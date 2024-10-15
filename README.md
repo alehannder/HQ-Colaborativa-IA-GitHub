@@ -24,3 +24,7 @@
    - Conflitos com criaturas fantásticas
 4. Confronto com o Bandido: Batalha épica pelo tesouro.
 5. Conclusão: Reflexão sobre o valor da amizade e as lições aprendidas.
+
+## Links para o Gerenciamento do Projeto
+- **Product Backlog:** [Issues do GitHub](https://github.com/alehannder/HQ-Colaborativa-IA-GitHub/issues)
+- **Kanban Board:** [GitHub Projects do Kanban](https://github.com/users/alehannder/projects/1))
