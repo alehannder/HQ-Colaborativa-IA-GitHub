@@ -28,3 +28,4 @@
 ## Links para o Gerenciamento do Projeto
 - **Product Backlog e Sprint Backlog:** [Issues do GitHub](https://github.com/alehannder/HQ-Colaborativa-IA-GitHub/issues)
 - **Quadro Kanban:** [GitHub Projects do Kanban](https://github.com/users/alehannder/projects/1)
+- - **Quadro Kanban Sprint 1:** [GitHub Projects do Kanban Sprint 1](https://github.com/users/alehannder/projects/3)
